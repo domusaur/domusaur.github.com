@@ -19,7 +19,7 @@ html {
 
 body {
 	background: $darkGray;
-  font: 18px/1.4 $monospace;
+  font: 18px/1.4 $helvetica;
   color: $lightGray;
 }
 
@@ -256,7 +256,7 @@ nav {
     margin: 1.8em .8em;
     border-left: 2px solid $gray;
     padding: 0.1em 1em;
-    color: $gray;
+    color: $lightGray;
     font-size: 22px;
     font-style: italic;
   }
