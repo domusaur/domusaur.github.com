@@ -4,12 +4,11 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+hello! my name is Dominick but you may call me Dom, Domu, Domi, or any nickname you come up with. i'm an artist and overall creative mind that runs
+around aimlessly
 
-### More Information
+### why a blog?
 
-A place to include any other types of information that you'd like to include about yourself.
+because i love the idea of having an online brain dump without the character restraints of twitter or the pressure of tumblr and instagram. idk how often i'll post here, or what i'll post about (probably about my thoughts and life in general) but i can assure you that you'll regret wasting your time with my silly projects!
 
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+thank you for visiting and have a nice day
